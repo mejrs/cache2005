@@ -1,1 +1,1 @@
-base = "C:/Users/bruno/runescape/cache4"
+base = "C:/Users/bruno/runescape/cache2005"
